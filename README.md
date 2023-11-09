@@ -5,9 +5,14 @@
 
 # Hi there 👋
 
-- 🔨 I’m currently working on ![pico-genius](https://github.com/LucasCalcada/pico-genius)
-- 📖 I’m currently learning C++
-- 🔧 My tools: VSCode, Neovim, JetBrains Rider, Git, Inkscape, GIMP, Unity
+<p align="left">
+    🔨 I’m currently working on <a href="https://github.com/LucasCalcada/pico-genius">pico-genius</a>
+</p>
+<p align="left">
+    📖 I’m currently learning C++
+<p align="left">
+    🔧 Software I use: VSCode, Neovim, JetBrains Rider, Git, Inkscape, GIMP, Unity
+</p>
 
 ## My current skills
 <div align="left">
