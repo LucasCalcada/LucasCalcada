@@ -5,17 +5,8 @@
 
 # Hi there 👋
 
-<p align="left">
-    🔨 I’m currently working on <a href="https://github.com/LucasCalcada/pico-genius">pico-genius</a>
-</p>
-<p align="left">
-    📖 I’m currently learning C++
-<p align="left">
-    🔧 Software I use: VSCode, Neovim, JetBrains Rider, Git, Inkscape, GIMP, Unity
-</p>
-
 ## My current skills
-<div align="left">
+<div align="center">
     <img align="center" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="100px" height="100px""/>
     <img align="center" alt="Unity" src="/images/unity-original.svg" width="100px" height="100px" style="color:'white'"/>
     <img align="center" alt="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="100px" height="100px"/>
