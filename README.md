@@ -1,7 +1,5 @@
-<div align="left">
-    <a href = "mailto:lucasmgmcalcada@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail" target="_blank"></a>
-    <a href = "https://lucascalcada.itch.io/"><img src="https://img.shields.io/badge/-Itch.io-%23333?style=for-the-badge&logo=itchdotio" target="_blank"></a>
-</div>
+<a href = "mailto:lucasmgmcalcada@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "https://lucascalcada.itch.io/"><img src="https://img.shields.io/badge/-Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" target="_blank"></a>
 
 # Hi there 👋
 - 🎓 **Computer Engineering** student at Mauá Institute of Technology (IMT)
